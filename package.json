@@ -1,0 +1,14 @@
+{
+  "name": "@nrabinowitz/h3-tutorial-suitability-analysis",
+  "main": "fde2bcfdc475f907@254.js",
+  "version": "254.0.0",
+  "homepage": "https://observablehq.com/@nrabinowitz/h3-tutorial-suitability-analysis",
+  "author": {
+    "name": "Nick Rabinowitz",
+    "url": "https://observablehq.com/@nrabinowitz"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
